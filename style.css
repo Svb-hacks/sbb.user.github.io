@@ -3,8 +3,8 @@ body {
 }
 
 #container {
+	background: white;
 	width: 800px;
-	color: white;
 	margin-left: auto;
 	margin-right:  auto;
 }
